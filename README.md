@@ -16,4 +16,10 @@ Tech stack:
 
 This project simulates how QA engineers can validate AI system reliability and security.
 
+Instructions to run:
+pip install -r requirements.txt
+Run ollama using:
+ollama run llama3
+or 
+ollama run mistral
 Author: Suma Hegde
